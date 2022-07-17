@@ -19,7 +19,7 @@ body {
 /* Header */
 .header {
     background-color: #562eff;
-    padding: 20px 0;
+    padding: 1rem 0;
 }
 
 .header .container {
@@ -47,20 +47,21 @@ body {
 .header-right-area {
     display: flex;
     align-items: center;
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .navigation {
     display: flex;
     align-items: center;
     list-style: none;
-    gap: 3rem;
+    gap: 1rem;
 }
 
 .navigation a {
     color: white;
     display: block;
     text-decoration: none;
+    padding: 1rem;
 }
 
 .user-profile {
